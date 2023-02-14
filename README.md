@@ -22,6 +22,9 @@
   </ul>
 </div>
 
+<h5>Para Contactarme</h5>
+<p>email: arodriguezp.cs.1@gmail.com<p>
+     
 -----
 
 <h4 color="darkcyan">Tech Skills</h4>
